@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @MageshKanna
-- 👀 I’m interested in front end development 
+- 👀 I’m interested in full development 
 - 🌱 I’m currently learning reactjs
+- working with PHP,JS, HTML,CSS,SQL, PYTHON.
 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ 
+- 📫 
 
 <!---
 MageshKanna/MageshKanna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
