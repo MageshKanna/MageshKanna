@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MageshKanna
-- 👀 I’m interested in full development 
-- 🌱 I’m currently learning reactjs
+- 👀 Like to Solve Problems
+- 🌱 Learning Never ENDS....
 - working with PHP,JS, HTML,CSS,SQL, PYTHON.
 
 - 💞️ 
