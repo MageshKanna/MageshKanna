@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MageshKanna
 - 👀 Like to Solve Problems
 - 🌱 Learning Never ENDS....
--     Working with PHP,JS,HTML5,CSS3,SQL,PYTHON.
+-     Working with PHP,Jquery,Vanilla Js,HTML5,CSS3,SQL,PYTHON.
