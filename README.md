@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @MageshKanna
 - 👀 Like to Solve Problems
 - 🌱 Learning Never ENDS....
--     Working with PHP,Jquery,Vanilla Js,HTML5,CSS3,SQL,PYTHON.
+- Working in Microsoft CE and Powerapps.
+- Working with PHP,Jquery,Vanilla Js,HTML5,CSS3,SQL,PYTHON.
